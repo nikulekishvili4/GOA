@@ -1,0 +1,1 @@
+print("deda=tiko-mama=irakli-dzma=guka")
